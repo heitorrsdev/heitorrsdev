@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorrsdev&theme=react&show_icons=true&locale=en" alt="stats" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Main Skills:</h3>
 <div align="left">
   &nbsp;<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
