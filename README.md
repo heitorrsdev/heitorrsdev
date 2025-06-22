@@ -8,9 +8,12 @@
 - 📫 How to reach me **heitorrs.dev@gmail.com**
 
 <h3>GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorrsdev&theme=react&show_icons=true&locale=en&layout=compact" alt="heitorrsdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorrsdev&theme=react&show_icons=true&locale=en" alt="heitorrsdev" /></p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorrsdev&theme=react&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorrsdev&theme=react&show_icons=true&locale=en" alt="stats" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
