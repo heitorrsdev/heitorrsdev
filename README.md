@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heitor</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular, Node and Express**
-- 💬 Ask me about **React and Vue**
-- 📫 How to reach me **heitorrs.dev@gmail.com**
+- 💪 My main stack is **Angular** and **Express.js/Node.js**.
+- 🔭 I’ve also worked with **React and Vue.js**.
+- 📫 How to reach me: **heitorrs.dev@gmail.com**
 
 <h3>GitHub Stats</h3>
 
