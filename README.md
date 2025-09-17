@@ -8,9 +8,9 @@
 <h3>GitHub Stats</h3>
 
 <div align="left">
-  <img height="180em" src="github-readme-stats-heitorrsdev.vercel.app/api/top-langs?username=heitorrsdev&theme=react&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats-heitorrsdev.vercel.app/api/top-langs?username=heitorrsdev&theme=react&show_icons=true&locale=en&layout=compact" alt="top langs" />
   &nbsp;
-  <img height="180em" src="github-readme-stats-heitorrsdev.vercel.app/api?username=heitorrsdev&theme=react&show_icons=true&locale=en" alt="stats" />
+  <img height="180em" src="https://github-readme-stats-heitorrsdev.vercel.app/api?username=heitorrsdev&theme=react&show_icons=true&locale=en" alt="stats" />
 </div>
 
 <h3>🧰 Main Skills</h3>
