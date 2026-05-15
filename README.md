@@ -63,7 +63,7 @@ I keep both early and recent projects public to demonstrate my technical evoluti
 
 <h3>🚀 Notable Projects</h3>
 
-**Reservation System (Backend)**
+**Reservation Core:**
 A backend MVP showcasing architectural principles in practice: layered architecture, domain isolation, explicit business rules, and data integrity. Built with NestJS, PostgreSQL, Docker, and documented with ADRs (Architecture Decision Records).
 
 ---
